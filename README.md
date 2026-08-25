@@ -1,5 +1,5 @@
 - Hi, Alex Tripp
-- I'm currently studying Computer Engineering
+- I'm currently studying Electrical Engineering
 - I chose my major because I was interested in a field that contained coding and hardware elements
 - A fun fact about me is:  I have a dog 
 - What do I want to learn from EE 205?  I want to learn more about algorithms (sorting, solving, etc...)
